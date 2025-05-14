@@ -1,0 +1,16 @@
+{
+  "name": "anirudh-portfolio",
+  "version": "1.0.0",
+  "description": "A personal portfolio showcasing the skills, projects, and achievements of Anirudh Hanchinmani.",
+  "main": "src/index.html",
+  "scripts": {
+    "start": "live-server src",
+    "build": "echo 'Build step not defined'"
+  },
+  "author": "Anirudh Hanchinmani",
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {
+    "live-server": "^1.2.1"
+  }
+}
