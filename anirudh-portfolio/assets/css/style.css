@@ -378,6 +378,11 @@ main {
   z-index: -1;
 }
 
+.sidebar.active .info_more-btn ion-icon {
+  transform: rotate(180deg);
+  transition: transform 0.3s;
+}
+
 .info_more-btn:hover,
 .info_more-btn:focus { background: var(--bg-gradient-yellow-1); }
 
